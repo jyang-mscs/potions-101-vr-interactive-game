@@ -33,28 +33,44 @@ Group member 2 GitHub username: ademar-gamero
 - Bubble in water Sound by KRNBEATZ, link: https://pixabay.com/sound-effects/bubble-in-water-422579/
 - 3D Model Assests by KayKit, link: https://kaylousberg.itch.io/
 - Smoke Texture by Resource Boy Exclusives, link: https://resourceboy.com/textures/smoke-textures/
+- 
 ## Important Notes
 
-...
+This game was created as part of a the UW-Milwaukee course CompSci 746 - Immersive Technologies and 3D User Interface. 
+The concept of the game derives from, possibly, being showcased at Discovery World, from a theme of Halloween and 
+intended audience of kids ranging from the ages of 5 to 12 years old.
+
+This game was developed in Godot game engine and designed/tested with the Meta Quest 2.
+
+# Introduction
+
+The game takes, you, as a student who will be attending an introductory potion making course. 
+As part of the tutorial of the game, a blue mini wizard will assist in guiding you on how to 
+interact with the world and what you will needed to proceed through each part. Each potion made
+serves their own purpose to progress further in the tutorial as each have their own special effect.
+
+# Noteable Features
+
+There are four potions that can be made:
+- a teleport potion
+- a "scale-down" potion
+- a strength potion
+- a flying potion
+
+The Compendium, a potion recipe book, providing useful information on the necessary ingredients needed a a specific potion.
+
+A potion crafting mechanic, taking two different ingredients to produce a single potion.
+
+A wizard guide with a event manager that provides instructions based on the tasks the player has completed.
 
 ## Controls
 
-A - 
+Menu Button (Left Controller) - Recenter
 
-X -
+Left Joystick - Movement Action
 
-B - 
+Right Joystick - Looking Action
 
-Y - 
+Trigger - Interact
 
-Left Joystick - 
-
-Right Joystick - 
-
-Left Trigger - 
-
-Right Trigger - 
-
-Left Grip - 
-
-Right Grip - 
+Grip - Grabbing Action
