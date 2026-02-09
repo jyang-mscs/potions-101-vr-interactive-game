@@ -14,14 +14,6 @@ Group member 2 email: aegamero@uwm.edu
 
 Group member 2 GitHub username: ademar-gamero
 
-## Important Notes
-
-This game was created as part of a the UW-Milwaukee course CompSci 746 - Immersive Technologies and 3D User Interface. 
-The concept of the game derives from, possibly, being showcased at Discovery World, from a theme of Halloween and 
-intended audience of kids ranging from the ages of 5 to 12 years old.
-
-This game was developed in Godot game engine and designed/tested for and with the Meta Quest 2.
-
 # Introduction
 
 The game takes, you, as a student who will be attending an introductory potion making course. 
@@ -54,6 +46,31 @@ Right Joystick - Looking Action
 Trigger - Interact
 
 Grip - Grabbing Action
+
+## Important Notes
+
+This game was created as part of a the UW-Milwaukee course CompSci 746 - Immersive Technologies and 3D User Interface. 
+The concept of the game derives from, possibly, being showcased at Discovery World, from a theme of Halloween and 
+intended audience of kids ranging from the ages of 5 to 12 years old.
+
+This game was developed in Godot game engine and designed/tested for and with the Meta Quest 2.
+
+This repository does not provide the entirety of the project but the scripts used to make the game functional.
+
+This project is completed as part of the course but still a lot of room from improvements.
+
+## Issues:
+
+- Hands coming too close to the head may cause a glitch and require the game to restart
+- The spoon snap point is small size
+
+# Future Improvements
+
+- Imrpove wizard guide
+  - Include visual and audio feedback
+- Adding more potions
+- Adding a start screen
+...
 
 ## Third party assets:
 
