@@ -4,15 +4,15 @@
 
 Group member 1 name: Jefferson Yang
 
-Group member 1 email: yang676@uwm.edu
+Group member 1 email: jeffersonyang01@gmail.com
 
 Group member 1 GitHub username: jyang-mscs
 
-Group member 2 name: Ademar Gamero
+Group member 2 name: (redacted)
 
-Group member 2 email: aegamero@uwm.edu
+Group member 2 email: (redacted)
 
-Group member 2 GitHub username: ademar-gamero
+Group member 2 GitHub username: (redacted)
 
 # Introduction
 
