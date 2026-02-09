@@ -20,7 +20,7 @@ This game was created as part of a the UW-Milwaukee course CompSci 746 - Immersi
 The concept of the game derives from, possibly, being showcased at Discovery World, from a theme of Halloween and 
 intended audience of kids ranging from the ages of 5 to 12 years old.
 
-This game was developed in Godot game engine and designed/tested with the Meta Quest 2.
+This game was developed in Godot game engine and designed/tested for and with the Meta Quest 2.
 
 # Introduction
 
