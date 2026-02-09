@@ -55,7 +55,8 @@ intended audience of kids ranging from the ages of 5 to 12 years old.
 
 This game was developed in Godot game engine and designed/tested for and with the Meta Quest 2.
 
-This repository does not provide the entirety of the project but the scripts used to make the game functional.
+This repository does not provide the entirety of the project but it does include majority of the scripts used to make the game functional
+as a way to showcase how the game was written and general code review.
 
 This project is completed as part of the course but still a lot of room from improvements.
 
